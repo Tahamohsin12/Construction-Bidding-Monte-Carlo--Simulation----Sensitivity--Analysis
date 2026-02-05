@@ -38,6 +38,11 @@ I built a **Monte Carlo Simulation** model in Python to run **10,000 iterations*
 ---
 
 ### 📷 Visualization: Profit/Loss Distribution
+
 *The graph below shows the result of 10,000 simulations. The red area represents the risk of loss.*
 <img width="998" height="624" alt="download" src="https://github.com/user-attachments/assets/037f6df1-d7c2-47c1-8f70-0fc78c323f7b" />
+
+### 📷 Visualization: Sensitivity Analysis
+![Uploading image.png…]()
+
 
