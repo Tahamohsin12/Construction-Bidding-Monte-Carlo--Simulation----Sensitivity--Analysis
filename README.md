@@ -43,6 +43,7 @@ I built a **Monte Carlo Simulation** model in Python to run **10,000 iterations*
 <img width="998" height="624" alt="download" src="https://github.com/user-attachments/assets/037f6df1-d7c2-47c1-8f70-0fc78c323f7b" />
 
 ### 📷 Visualization: Sensitivity Analysis
-![Uploading image.png…]()
+<img width="1076" height="805" alt="image" src="https://github.com/user-attachments/assets/2f28d276-3f37-4a9b-b58d-c24e77d67aa8" />
+
 
 
