@@ -2,7 +2,7 @@
 
 ###  Executive Summary
 **The Business Challenge:**
-My firm is considering a fixed-bid contract of **$5.5 Million** for a large construction project. However, the underlying costs are volatile. If costs exceed estimates, the project could result in a significant financial loss.
+Firm is considering a fixed-bid contract of **$5.5 Million** for a large construction project. However, the underlying costs are volatile. If costs exceed estimates, the project could result in a significant financial loss.
 
 **The Objective:**
 Determine the statistical probability of turning a profit and identify the "break-even" risk profile before signing the contract.
