@@ -31,7 +31,7 @@ I built a **Monte Carlo Simulation** model in Python to run **10,000 iterations*
 | **Worst-Case Scenario** | **-$650,000** (approx) |
 
 **Strategic Findings:**
-1.  [cite_start]**Risk Exposure:** While the project is profitable on average, there is a **~17% chance** of losing money[cite: 52]. This exceeds the company's typical risk tolerance of 15%.
+1.  **Risk Exposure:** While the project is profitable on average, there is a **~17% chance** of losing money. This exceeds the company's typical risk tolerance of 15%.
 2.  **Sensitivity Analysis:** The model identified that **Labor Cost volatility** is the single biggest driver of variance. A labor strike increases costs by ~$200k, pushing the project into negative territory.
 3.  **Recommendation:** Based on the simulation, I recommended **increasing the bid to $5.7M** to buffer against labor risks, or negotiating a "Labor Cost Adjustment" clause.
 
